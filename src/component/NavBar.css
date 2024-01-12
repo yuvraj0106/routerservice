@@ -1,0 +1,15 @@
+nav{
+    display: flex;
+    justify-content: center;
+    background-color: red;
+    color: orange;
+}
+ul{
+    list-style: none;
+
+}
+li{
+    display: inline-block;
+    font-size: 30px;
+    margin-right: 40px;
+}
